@@ -1,0 +1,3 @@
+[submodule "hanja-dictionary"]
+	path = hanja-dictionary
+	url = https://github.com/dbravender/hanja-dictionary.git
